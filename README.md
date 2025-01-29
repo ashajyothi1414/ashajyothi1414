@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[[https://www.linkedin.com/in/ezrayel-althi-488814253/](https://www.linkedin.com/in/ashajyothi-althi-0a2661314/)](https://www.linkedin.com/in/ashajyothi-althi-0a2661314/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asha jyothi" height="30" width="40" /></a>
+<a href="[(https://www.linkedin.com/in/ashajyothi-althi-0a2661314/)](https://www.linkedin.com/in/ashajyothi-althi-0a2661314/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asha jyothi" height="30" width="40" /></a>
 
 </p>
 

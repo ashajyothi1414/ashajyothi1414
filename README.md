@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Althi Ashajyothi</h1>
 <h3 align="center">Motivated and detail-oriented IT graduate with a strong foundation in Master of  Computer Applications (MCA). Equipped with knowledge of C,Java ,python,Html,Css,My SQL,Networking and hands-on experience through academic projects and internships.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ezrayel8073&label=Profile%20views&color=0e75b6&style=flat" alt="ezrayel8073" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashajyothi1414&label=Profile%20views&color=0e75b6&style=flat" alt="ashajyothi1414" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ezrayel8073" alt="ezrayel8073" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashajyothi1414" alt="ashajyothi1414" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://www.linkedin.com/in/ezrayel-althi-488814253/](https://www.linkedin.com/in/ashajyothi-althi-0a2661314/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ezrayel althi" height="30" width="40" /></a>
+<a href="[https://www.linkedin.com/in/ezrayel-althi-488814253/](https://www.linkedin.com/in/ashajyothi-althi-0a2661314/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asha jyothi" height="30" width="40" /></a>
 
 </p>
 
